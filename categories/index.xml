@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Music&#39;s blog</title>
+    <link>https://yycxy.github.io/categories/</link>
+    <description>Recent content in Categories on Music&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://yycxy.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>js</title>
+      <link>https://yycxy.github.io/categories/js/</link>
+      <pubDate>Sun, 16 Sep 2018 19:26:52 +0800</pubDate>
+      
+      <guid>https://yycxy.github.io/categories/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>world</title>
+      <link>https://yycxy.github.io/categories/world/</link>
+      <pubDate>Sun, 16 Sep 2018 18:31:52 +0800</pubDate>
+      
+      <guid>https://yycxy.github.io/categories/world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

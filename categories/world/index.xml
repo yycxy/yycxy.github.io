@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>world on Music&#39;s blog</title>
+    <link>https://yycxy.github.io/categories/world/</link>
+    <description>Recent content in world on Music&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Sep 2018 18:31:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://yycxy.github.io/categories/world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://yycxy.github.io/post/my-first-post/</link>
+      <pubDate>Sun, 16 Sep 2018 18:31:52 +0800</pubDate>
+      
+      <guid>https://yycxy.github.io/post/my-first-post/</guid>
+      <description>Hello world 我是音乐 引用给别人的内容 function h() { return 0; } haha 6666</description>
+    </item>
+    
+  </channel>
+</rss>

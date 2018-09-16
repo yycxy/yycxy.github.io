@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>js on Music&#39;s blog</title>
+    <link>https://yycxy.github.io/categories/js/</link>
+    <description>Recent content in js on Music&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Sep 2018 19:26:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://yycxy.github.io/categories/js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>deepClone</title>
+      <link>https://yycxy.github.io/post/js/deepclone/</link>
+      <pubDate>Sun, 16 Sep 2018 19:26:52 +0800</pubDate>
+      
+      <guid>https://yycxy.github.io/post/js/deepclone/</guid>
+      <description>深拷贝 function deepCopy(data) { const t = this.typeOf(data); let o; if (t === &#39;array&#39;) { o = []; } else if (t === &#39;object&#39;) { o = {}; } else { return data; } if (t === &#39;array&#39;) { for (let i = 0; i &amp;lt; data.length; i++) { o.push(this.deepCopy(data[i])); } } else if (t === &#39;object&#39;) { for (let i in data) { o[i] = this.deepCopy(data[i]); }</description>
+    </item>
+    
+  </channel>
+</rss>
